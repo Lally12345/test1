@@ -8,3 +8,12 @@ d={"name":'lally',"email":'lally@gmail.com','surname':'pradhan'}
 db1=client['mongodb']
 coll=db1['test']
 coll.insert_one(d)
+
+
+
+gfhjhb
+fhjbjb
+dfg
+sd
+sd
+sd
